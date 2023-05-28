@@ -1,0 +1,23 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri;
+    background-image: linear-gradient(to right, rgb(255 255 255 / 0%), rgb(143 146 208));
+}
+h1{
+    text-align: center;
+    font-size: revert;
+    color: blue;
+    margin-top: 226px;
+    text-align: center;
+    font-size: revert;
+    color: blue;
+}
+p{
+    text-align: center;
+    font-size: 18px;
+    color: aliceblue;
+}
+form{
+    text-align: center;
+    margin-top: 33px;
+    font-size: 18px;
+}
